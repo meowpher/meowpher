@@ -36,4 +36,4 @@ A full-stack freelance marketplace connecting local Indian freelancers with clie
 ### 📬 Let's Connect!
 - **LinkedIn:** [Taha Mustafa Piplodwala](https://www.linkedin.com/in/taha-mustafa-piplodwala/)
 - **Email:** [taha.piplodwala@gmail.com](mailto:taha.piplodwala@gmail.com)
-- **Portfolio:** [neon-tether.vercel.app](https://neon-tether.vercel.app) *(or your portfolio URL)*
+- **Portfolio:** [Portfolio](https://portfolio6420.vercel.app/)
