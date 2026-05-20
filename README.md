@@ -51,11 +51,6 @@ A Full Stack Developer and BCA student at MIT-WPU, Pune. I build serverless arch
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=meowpher&theme=tokyonight" alt="meowpher's GitHub Streak" />
   </a>
   <br/><br/>
-  <!-- General Stats Card -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=meowpher&show_icons=true&theme=tokyonight&count_private=true" alt="meowpher's GitHub Stats" />
-  </a>
-</p>
 ---
 
 ### 🏆 GitHub Trophies:
