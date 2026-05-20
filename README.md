@@ -1,6 +1,5 @@
 # Hi, I'm Taha Mustafa Piplodwala 👋 (`meowpher`)
-I am a **Full Stack Developer** and BCA student at **MIT World Peace University, Pune**. I focus on building robust, performant web applications, modern frontends, and custom physics engines.
----
+A Full Stack Developer and BCA student at MIT-WPU, Pune. I build serverless architectures, responsive interfaces, and custom physics engines.
 ### 🚀 About Me
 - 🎓 Pursuing my Bachelor of Computer Applications (BCA) — *3rd Year / 5th Semester*
 - 🏆 **Rank 7th / Finalist** out of 100+ teams at **The X-Fair Hackathon 2025**
@@ -41,12 +40,12 @@ I am a **Full Stack Developer** and BCA student at **MIT World Peace University,
 ---
 
 ### 🏆 GitHub Trophies:
-
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=meowpher&theme=tokyonight&column=4" width="100%" alt="meowpher's Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=meowpher&theme=tokyonight&column=4" alt="meowpher's Trophies" />
   </a>
 </p>
+
 
 ---
 ### 📂 Featured Projects
