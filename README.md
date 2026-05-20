@@ -1,11 +1,13 @@
 # Hi, I'm Taha Mustafa Piplodwala 👋 (`meowpher`)
-
-A Full Stack Developer and BCA student at MIT-WPU, Pune. I build serverless architectures, responsive interfaces, and custom physics engines.
-
+I am a **Full Stack Developer** and BCA student at **MIT World Peace University, Pune**. I focus on building robust, performant web applications, modern frontends, and custom physics engines.
 ---
+### 🚀 About Me
+- 🎓 Pursuing my Bachelor of Computer Applications (BCA) — *3rd Year / 5th Semester*
+- 🏆 **Rank 7th / Finalist** out of 100+ teams at **The X-Fair Hackathon 2025**
+- 🛠️ Currently focusing on serverless architectures, custom API integrations, and database performance optimizations
+- 💬 Open for **internship opportunities**, **freelance full-stack development**, and collaborative software projects
 
 ### 💻 Tech Stack:
-
 <p align="left">
   <!-- Languages & Frameworks -->
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="30" />
@@ -47,16 +49,13 @@ A Full Stack Developer and BCA student at MIT-WPU, Pune. I build serverless arch
 </p>
 
 ---
-
-### 📝 Random Dev Quote:
-
-<p align="left">
-  <a href="https://github.com/adeekshith/github-readme-quotes">
-    <img src="https://github-readme-quotes.vercel.app/api?theme=tokyonight" width="600" alt="Random Dev Quote" />
-  </a>
-</p>
-
----
+### 📂 Featured Projects
+#### 🕹️ [Neon Tether](https://github.com/meowpher/Neon-Tether)
+A high-speed, physics-based infinite arcade runner built with Vanilla JS and HTML5 Canvas. Features a custom spring-damper tension engine, procedural void generation, and real-time audio synthesis via the Web Audio API.
+#### 🏫 [FixLink-F](https://github.com/meowpher/FixLink-V1)
+A smart room-booking and maintenance tracker for universities. Implements range-based conflict check algorithms and automated scheduling using Flask, SQLAlchemy, and PostgreSQL.
+#### 💼 [Fixoria](https://github.com/meowpher/Fixoria)
+A full-stack freelance marketplace connecting local Indian freelancers with clients, featuring asynchronous booking flows, verification systems, and payment gateway mocks.
 
 ### 📬 Let's Connect!
 - **LinkedIn:** [Taha Mustafa Piplodwala](https://www.linkedin.com/in/taha-mustafa-piplodwala/)
